@@ -53,7 +53,7 @@ app.post(URI, async (req, res) => {
     case "/start":
       bot.sendMessage(
         chatId,
-        "Hello, welcome Yosua and Ellena Dokimos Ark 🏠!"
+        "Hello, welcome to Yosua and Ellena Dokimos Ark 🏠!"
       );
       break;
     case "/instagram":
